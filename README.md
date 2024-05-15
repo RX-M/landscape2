@@ -1,3 +1,5 @@
+# This repo will no longer be updated, see official CNCF repos as this work was merged there.
+
 # Landscape2
 
 **Landscape2** is a tool that generates interactive landscapes websites.
